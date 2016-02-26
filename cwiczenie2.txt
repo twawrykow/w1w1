@@ -1,1 +1,0 @@
-To jest jedno z wielu ćwiczeń na opanowanie podstawowych komend GIT.
